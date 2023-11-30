@@ -1,0 +1,4 @@
+total 28
+-rwx------ 1 smadhuk primarygroup    28 Oct 31 13:37 foo.txt
+-rw-r----- 1 smadhuk primarygroup   622 Oct 31 14:21 main.cc
+-rwxr-x--- 1 smadhuk primarygroup 16960 Oct 31 14:21 out

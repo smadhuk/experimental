@@ -1,0 +1,19 @@
+--- example_original.cc	2023-09-06 10:47:26.965255658 -0700
++++ example_duplicate.cc	2023-09-06 10:23:40.611503164 -0700
+@@ -3,15 +3,13 @@
+ 
+ #include <iostream>
+ 
+-int helper() { return 5; }
++int helper() { return 6; }
+ 
+ int main() {
+   key_t k = ftok("example_key", 0);
+ 
+   int ret = helper();
+ 
+-  std::cout << "this is a new line" << std::endl;
+-
+   int retval = shmget(k, 1000, IPC_CREAT);
+   std::cout << "retval is " << retval << std::endl;
+ 

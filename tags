@@ -1,0 +1,135 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/usr/local/google/home/smadhuk/experimental/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+CN	enum_classes.cc	/^enum class CN { CN_member = 1 };$/;"	g	file:
+CN_member	enum_classes.cc	/^enum class CN { CN_member = 1 };$/;"	e	enum:CN	file:
+Comparator	enum_classes.cc	/^  enum Comparator { wow = 1 };$/;"	g	function:main	file:
+HelloWorld	enum_classes.cc	/^  enum HelloWorld { yolo = 1 };$/;"	g	function:main	file:
+L10	shared_memory.s	/^.L10:$/;"	l
+L12	shared_memory.s	/^.L12:$/;"	l
+L13	shared_memory.s	/^.L13:$/;"	l
+L14	shared_memory.s	/^.L14:$/;"	l
+L15	shared_memory.s	/^.L15:$/;"	l
+L17	shared_memory.s	/^.L17:$/;"	l
+L18	shared_memory.s	/^.L18:$/;"	l
+L22	shared_memory.s	/^.L22:$/;"	l
+L24	shared_memory.s	/^.L24:$/;"	l
+L25	shared_memory.s	/^.L25:$/;"	l
+L31	shared_memory.s	/^.L31:$/;"	l
+L33	shared_memory.s	/^.L33:$/;"	l
+L34	shared_memory.s	/^.L34:$/;"	l
+L4	shared_memory.s	/^.L4:$/;"	l
+L44	shared_memory.s	/^.L44:$/;"	l
+L5	shared_memory.s	/^.L5:$/;"	l
+LC0	shared_memory.s	/^.LC0:$/;"	l
+LC1	shared_memory.s	/^.LC1:$/;"	l
+LC2	shared_memory.s	/^.LC2:$/;"	l
+LEHB0	shared_memory.s	/^.LEHB0:$/;"	l
+LEHB1	shared_memory.s	/^.LEHB1:$/;"	l
+LEHB2	shared_memory.s	/^.LEHB2:$/;"	l
+LEHB3	shared_memory.s	/^.LEHB3:$/;"	l
+LEHB4	shared_memory.s	/^.LEHB4:$/;"	l
+LEHB5	shared_memory.s	/^.LEHB5:$/;"	l
+LEHE0	shared_memory.s	/^.LEHE0:$/;"	l
+LEHE1	shared_memory.s	/^.LEHE1:$/;"	l
+LEHE2	shared_memory.s	/^.LEHE2:$/;"	l
+LEHE3	shared_memory.s	/^.LEHE3:$/;"	l
+LEHE4	shared_memory.s	/^.LEHE4:$/;"	l
+LEHE5	shared_memory.s	/^.LEHE5:$/;"	l
+LFB0	multiply.s	/^.LFB0:$/;"	l
+LFB1	shared_memory.s	/^.LFB1:$/;"	l
+LFB119	shared_memory.s	/^.LFB119:$/;"	l
+LFB1761	shared_memory.s	/^.LFB1761:$/;"	l
+LFB1762	shared_memory.s	/^.LFB1762:$/;"	l
+LFB1871	shared_memory.s	/^.LFB1871:$/;"	l
+LFB2026	shared_memory.s	/^.LFB2026:$/;"	l
+LFB2029	shared_memory.s	/^.LFB2029:$/;"	l
+LFB2064	shared_memory.s	/^.LFB2064:$/;"	l
+LFB2066	shared_memory.s	/^.LFB2066:$/;"	l
+LFB2069	shared_memory.s	/^.LFB2069:$/;"	l
+LFB2160	shared_memory.s	/^.LFB2160:$/;"	l
+LFB2220	shared_memory.s	/^.LFB2220:$/;"	l
+LFB2221	shared_memory.s	/^.LFB2221:$/;"	l
+LFB2296	shared_memory.s	/^.LFB2296:$/;"	l
+LFB2297	shared_memory.s	/^.LFB2297:$/;"	l
+LFE0	multiply.s	/^.LFE0:$/;"	l
+LFE1	shared_memory.s	/^.LFE1:$/;"	l
+LFE119	shared_memory.s	/^.LFE119:$/;"	l
+LFE1761	shared_memory.s	/^.LFE1761:$/;"	l
+LFE1762	shared_memory.s	/^.LFE1762:$/;"	l
+LFE1871	shared_memory.s	/^.LFE1871:$/;"	l
+LFE2026	shared_memory.s	/^.LFE2026:$/;"	l
+LFE2029	shared_memory.s	/^.LFE2029:$/;"	l
+LFE2064	shared_memory.s	/^.LFE2064:$/;"	l
+LFE2066	shared_memory.s	/^.LFE2066:$/;"	l
+LFE2069	shared_memory.s	/^.LFE2069:$/;"	l
+LFE2160	shared_memory.s	/^.LFE2160:$/;"	l
+LFE2220	shared_memory.s	/^.LFE2220:$/;"	l
+LFE2221	shared_memory.s	/^.LFE2221:$/;"	l
+LFE2296	shared_memory.s	/^.LFE2296:$/;"	l
+LFE2297	shared_memory.s	/^.LFE2297:$/;"	l
+LLSDA1761	shared_memory.s	/^.LLSDA1761:$/;"	l
+LLSDA2026	shared_memory.s	/^.LLSDA2026:$/;"	l
+LLSDA2069	shared_memory.s	/^.LLSDA2069:$/;"	l
+LLSDACSB1761	shared_memory.s	/^.LLSDACSB1761:$/;"	l
+LLSDACSB2026	shared_memory.s	/^.LLSDACSB2026:$/;"	l
+LLSDACSB2069	shared_memory.s	/^.LLSDACSB2069:$/;"	l
+LLSDACSE1761	shared_memory.s	/^.LLSDACSE1761:$/;"	l
+LLSDACSE2026	shared_memory.s	/^.LLSDACSE2026:$/;"	l
+LLSDACSE2069	shared_memory.s	/^.LLSDACSE2069:$/;"	l
+LOCAL_GOOGLE_HOME_SMADHUK_EXPERIMENTAL_PASS_POINTER_BY_REFERENCE_H_	pass_pointer_by_reference.h	/^#define LOCAL_GOOGLE_HOME_SMADHUK_EXPERIMENTAL_PASS_POINTER_BY_REFERENCE_H_$/;"	d
+S	structs.cc	/^int S() { return 0; }$/;"	f	typeref:typename:int
+S	structs.cc	/^} S;$/;"	t	typeref:struct:__anon21e087110108	file:
+_GLOBAL__sub_I_main	shared_memory.s	/^_GLOBAL__sub_I_main:$/;"	l
+_Z41__static_initialization_and_destruction_0ii	shared_memory.s	/^_Z41__static_initialization_and_destruction_0ii:$/;"	l
+_Z8multiplyii	multiply.s	/^_Z8multiplyii:$/;"	l
+_ZN9__gnu_cxx11char_traitsIcE2eqERKcS3_	shared_memory.s	/^_ZN9__gnu_cxx11char_traitsIcE2eqERKcS3_:$/;"	l
+_ZN9__gnu_cxx11char_traitsIcE6lengthEPKc	shared_memory.s	/^_ZN9__gnu_cxx11char_traitsIcE6lengthEPKc:$/;"	l
+_ZNSt11char_traitsIcE6lengthEPKc	shared_memory.s	/^_ZNSt11char_traitsIcE6lengthEPKc:$/;"	l
+_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_Alloc_hiderD1Ev	shared_memory.s	/^	.set	_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_Alloc_hiderD1Ev,_ZNSt7__cxx1112bas/;"	d
+_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_Alloc_hiderD2Ev	shared_memory.s	/^_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_Alloc_hiderD2Ev:$/;"	l
+_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forward_iterator_tag	shared_memory.s	/^_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forward_itera/;"	l
+_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC1IS3_EEPKcRKS3_	shared_memory.s	/^	.set	_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC1IS3_EEPKcRKS3_,_ZNSt7__cxx1112basic/;"	d
+_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC2IS3_EEPKcRKS3_	shared_memory.s	/^_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC2IS3_EEPKcRKS3_:$/;"	l
+_ZSt10__distanceIPKcENSt15iterator_traitsIT_E15difference_typeES3_S3_St26random_access_iterator_tag	shared_memory.s	/^_ZSt10__distanceIPKcENSt15iterator_traitsIT_E15difference_typeES3_S3_St26random_access_iterator_/;"	l
+_ZSt19__iterator_categoryIPKcENSt15iterator_traitsIT_E17iterator_categoryERKS3_	shared_memory.s	/^_ZSt19__iterator_categoryIPKcENSt15iterator_traitsIT_E17iterator_categoryERKS3_:$/;"	l
+_ZSt23__is_constant_evaluatedv	shared_memory.s	/^_ZSt23__is_constant_evaluatedv:$/;"	l
+_ZSt8distanceIPKcENSt15iterator_traitsIT_E15difference_typeES3_S3_	shared_memory.s	/^_ZSt8distanceIPKcENSt15iterator_traitsIT_E15difference_typeES3_S3_:$/;"	l
+_ZZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forward_iterator_tagEN6_GuardC1EPS4_	shared_memory.s	/^	.set	_ZZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forwar/;"	d
+_ZZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forward_iterator_tagEN6_GuardC2EPS4_	shared_memory.s	/^_ZZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forward_iter/;"	l
+_ZZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forward_iterator_tagEN6_GuardD1Ev	shared_memory.s	/^	.set	_ZZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forwar/;"	d
+_ZZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forward_iterator_tagEN6_GuardD2Ev	shared_memory.s	/^_ZZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forward_iter/;"	l
+__anon21e087110108	structs.cc	/^typedef struct {$/;"	s	file:
+helper	explore_patch_command/example_duplicate.cc	/^int helper() { return 6; }$/;"	f	typeref:typename:int
+helper	explore_patch_command/example_original.cc	/^int helper() { return 5; }$/;"	f	typeref:typename:int
+helper	explore_patch_command/to_patch.cc	/^int helper() { return 6; }$/;"	f	typeref:typename:int
+helper	pass_pointer_by_reference.cc	/^int helper(int (&arr)[arr_size]) {$/;"	f	typeref:typename:int
+helper	pass_pointer_by_reference.cc	/^int helper(int* arr, size_t arr_size) {$/;"	f	typeref:typename:int
+helper	shared_memory.cc	/^int helper() {$/;"	f	typeref:typename:int
+main	bits.cc	/^int main() {$/;"	f	typeref:typename:int
+main	enum_classes.cc	/^int main() {$/;"	f	typeref:typename:int
+main	explore_patch_command/example_duplicate.cc	/^int main() {$/;"	f	typeref:typename:int
+main	explore_patch_command/example_original.cc	/^int main() {$/;"	f	typeref:typename:int
+main	explore_patch_command/to_patch.cc	/^int main() {$/;"	f	typeref:typename:int
+main	invalid_array_alloc.cc	/^int main() {$/;"	f	typeref:typename:int
+main	matrix_multiply.cc	/^int main() {$/;"	f	typeref:typename:int
+main	pass_pointer_by_reference.cc	/^int main() {$/;"	f	typeref:typename:int
+main	shared_memory.cc	/^int main() {$/;"	f	typeref:typename:int
+main	shared_memory.s	/^main:$/;"	l
+main	structs.cc	/^int main() {$/;"	f	typeref:typename:int
+main	unsigned_signed_int.cc	/^int main() {$/;"	f	typeref:typename:int
+multBy2	bits.cc	/^int multBy2(int x) {$/;"	f	typeref:typename:int
+multiply	multiply.cc	/^int multiply(int a, int b) { return a * b; }$/;"	f	typeref:typename:int
+printMatrix	matrix_multiply.cc	/^void printMatrix(int m[2][2]) {$/;"	f	typeref:typename:void
+struct_user	structs.cc	/^int struct_user(S a) { return 0; }$/;"	f	typeref:typename:int
+wow	enum_classes.cc	/^  enum Comparator { wow = 1 };$/;"	e	enum:main::Comparator	file:
+x	structs.cc	/^  int x;$/;"	m	struct:__anon21e087110108	typeref:typename:int	file:
+yolo	enum_classes.cc	/^  enum HelloWorld { yolo = 1 };$/;"	e	enum:main::HelloWorld	file:
